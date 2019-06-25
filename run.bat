@@ -1,5 +1,5 @@
-cd C:\Test
+cd \Test
 
-set classpath=C:\Test\lib\*
+set classpath=\Test\lib\*
 
 java org.testng.TestNG testng.xml
